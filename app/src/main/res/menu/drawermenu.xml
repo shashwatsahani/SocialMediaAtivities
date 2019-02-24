@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/db6"  android:title="Invite Friends" android:icon="@drawable/ru"></item>
+
+    <item android:id="@+id/db8"  android:title="Hide Button" android:icon="@drawable/hide"></item>
+    <item android:id="@+id/db9"  android:title="Show Button" android:icon="@drawable/eye"></item>
+    <item android:id="@+id/db10"  android:title="Full screen" android:icon="@drawable/screen"></item>
+    <item android:id="@+id/db11"  android:title="Show Header" android:icon="@drawable/minimize"></item>
+
+
+    <item android:id="@+id/db4" android:title="Other apps" android:icon="@drawable/ps"></item>
+</menu>

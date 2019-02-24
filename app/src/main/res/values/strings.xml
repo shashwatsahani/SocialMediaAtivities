@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Allsocialactivities</string>
+    <string name="banner_ad_unit_id">ca-app-pub-5523453618419022/3279103374</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string-array name="ano">
+        <item>hi</item>
+    </string-array>
+
+</resources>
